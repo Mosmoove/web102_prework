@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Uploading Kapture 2023-06-08 at 22.51.18.gif…]()' title='Video Walkthrough' width='120' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='120' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
