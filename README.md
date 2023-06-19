@@ -10,14 +10,14 @@ Time spent: 48 hours spent in total
 
 The following **required** functionality is completed:
 
-* [✅] The introduction section explains the background of the company and how many games remain unfunded.
-* [✅] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [✅] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [✅] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [✅] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-The main challenges I have encountered while building the app is knowing how to implement the filter() and reduce() methods to improve the functionality of the app. At first, I had trouble with it, but I've managed to get the code right, with the most efficient tools needed in this website. I am firm that this course will hopefully give me a better understanding of these functions and how to implement them with clear examples.
+The main challenge I have encountered while building the app is knowing how to implement the filter() and reduce() methods to improve the functionality of the app. At first, I had trouble with it, but I've managed to get the code right, with the most efficient tools needed in this website. I am firm that this course will hopefully give me a better understanding of these functions and how to implement them with clear examples.
 
 ## License
 
