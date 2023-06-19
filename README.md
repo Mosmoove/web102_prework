@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Kapture 2023-06-19 at 19 21 48](https://github.com/Mosmoove/web102_prework/assets/115383064/53b2c0c8-f2eb-440c-86fc-56a3f53ffbc7)'
+<img src= 'https://getkap.co/Kapture 2023-06-19 at 19.21.48.gif'
 title='Video Walkthrough' width='120' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
