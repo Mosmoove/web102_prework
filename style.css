@@ -9,6 +9,28 @@ body {
     width: 50px;
 }
 
+li, a {
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 10px 25px;
+    margin: 0 0.2rem;
+}
+.nav-links li a {
+    transition: all 0.3 ease 0s;
+}
+
+.nav-links li a:hover {
+    color: darkcyan;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -21,8 +43,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: stretch;
+    cursor: pointer;
 }
 
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
+}
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
@@ -60,6 +87,7 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    transition: 0.3s ease-in-out;
 }
 
 #button-container {
@@ -68,8 +96,16 @@ body {
 
 button {
     font-family: 'Cabin';
+    font-weight: 500;
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    cursor: pointer;
+    transition: all 0.3 ease 0s;
+    border-radius: 10px;
+}
+button:hover {
+    box-shadow: 0 0 35 lightcoral;
+    background: linear-gradient(32deg, rgba(123, 43, 233, 0.7), red);
 }
