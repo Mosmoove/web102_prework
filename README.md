@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= [](https://www.icloud.com/iclouddrive/0cd9Clw87mu-GVqZl37ztGDSw#prework) title='Video Walkthrough' width='120' alt='Video Walkthrough' />
+<img src= 'https://getkap.co/' title='Video Walkthrough' width='120' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
