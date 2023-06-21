@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= 'https://getkap.co/' title='Video Walkthrough' width='120' alt='Video Walkthrough' />
-
+![Video Walkthrough](https://github.com/Mosmoove/gif/blob/main/prework.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 <!-- Recommended tools:
